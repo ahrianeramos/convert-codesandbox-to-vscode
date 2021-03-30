@@ -3,9 +3,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-      <p>hello world</p>
-      </header>
+      <h1>Weather Search Engine</h1>
+      <p></p>
     </div>
   );
 }
